@@ -27,9 +27,6 @@ SAHID-1 es un proyecto interdisciplinario que fortalece  habilidades en gestión
 
 **En desarrollo**. Se actualiza constantemente conforme se mejora el diseño y se realizan pruebas.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes utilizarlo, modificarlo y compartirlo con libertad, siempre que se dé crédito al autor original.
 
 ---
 
